@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/metatube-community/jellyfin-plugin-metatube/commit/f7c1f336fc2bd3b35b82af7c6e69da09a196e3d2",
       "git:hexsha": "f7c1f336fc2bd3b35b82af7c6e69da09a196e3d2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v2025.1102.2200.0"
     },
     {

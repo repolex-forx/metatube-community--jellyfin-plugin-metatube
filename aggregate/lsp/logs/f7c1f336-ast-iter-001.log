@@ -1,0 +1,7 @@
+[2026-11-09T21:58:22Z] === AST ITERATION 1 START | repo=metatube-community/jellyfin-plugin-metatube sha=f7c1f336 ===
+[2026-11-09T21:58:22Z] [iter=1] PHASE START: ast repo=metatube-community/jellyfin-plugin-metatube sha=f7c1f336
+[2026-11-09T21:58:22Z] [iter=1] Building AST aggregate chunks
+[2026-11-09T21:58:28Z] [iter=1] AST chunks built count=1 triples=85653
+[2026-11-09T21:58:28Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/f7c1f336fc2bd3b35b82af7c6e69da09a196e3d2/.complete
+[2026-11-09T21:58:28Z] [iter=1] PHASE END: ast elapsed_s=6 elapsed_min=0.1
+[2026-11-09T21:58:28Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
