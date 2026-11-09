@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/metatube-community/jellyfin-plugin-metatube/commit/f7c1f336fc2bd3b35b82af7c6e69da09a196e3d2",
       "git:hexsha": "f7c1f336fc2bd3b35b82af7c6e69da09a196e3d2",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v2025.1102.2200.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2025.1102.2200.0",
+      "repolex:parsedAt": "2026-11-09T21:59:26.492686+00:00"
     },
     {
       "@id": "https://repolex.ai/r/metatube-community/jellyfin-plugin-metatube/commit/f994480a6fbbefeb1b64440a34f098b0ef12d53b",
