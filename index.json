@@ -1,0 +1,11 @@
+{
+  "org": "metatube-community",
+  "repo": "jellyfin-plugin-metatube",
+  "versions": [
+    {
+      "commit": "f7c1f336fc2bd3b35b82af7c6e69da09a196e3d2",
+      "tag": "v2025.1102.2200.0",
+      "parsed_at": "2026-11-09T21:59:26.493334+00:00"
+    }
+  ]
+}
